@@ -1,0 +1,21 @@
+{
+  "name": "gulp-rev-change",
+  "version": "0.1.0",
+  "description": "to rev and change rev name in script tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gokulkrishh/gulp-rev-change"
+  },
+  "keywords": [
+    "gulpplugin"
+  ],
+  "author": "gokulkrishh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gokulkrishh/gulp-rev-change/issues"
+  }
+}
